@@ -1,0 +1,21 @@
+---
+author: "MyTien Kien"
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partner Info
+
+Partner's Name: **Tanner Dunn**
+
+Github User: **tcdunn**
+
+Last Commit: He commited his HW1 files in his most recent commit.
+
+Commit ID: **e5fa44068c31fe9ba6e4d1ad4cced48107ee4878**
+
+Error: Wasn't able to open up Partner's RMD file because "no such directory or file exists"
